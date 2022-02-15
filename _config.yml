@@ -1,11 +1,11 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+title: Philipuuu Dev Blog
+description: 소소하게 글로 기록하는 프론트앤드 주니어 개발자
 url: https://topgun0415.github.io
-avatar: /avatar.jpeg
+avatar: /profile.png
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /background.jpeg
 
 # Gems
 plugins:
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Philip Lee
+  url: https://github.com/topgun0415
+  email: topgun920415@gmail.com
