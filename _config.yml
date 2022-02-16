@@ -1,11 +1,11 @@
 # Setup
-title: Philipuuu Dev Blog
-description: 소소하게 글로 기록하는 프론트앤드 주니어 개발자
+title: Dev Blog
+description: 후쿠오카에서 살고 있는 프론트앤드 취준생입니당
 url: https://topgun0415.github.io
 avatar: /profile.png
 paginate: 5
 permalink: pretty
-cover_image: /background.jpeg
+cover_image: /background.gif
 
 # Gems
 plugins:
@@ -33,10 +33,10 @@ twitter:
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Philip Lee
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://www.instagram.com/philipuuu/
+    - https://github.com/topgun0415
 google_site_verification: xxxxx
 lang: en
 
