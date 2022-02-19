@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://topgun0415.github.io/sitemap.xml
