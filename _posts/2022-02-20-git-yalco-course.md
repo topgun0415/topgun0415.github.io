@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 제대로 파는 Git & Github 1  📚
+title: 제대로 파는 Git & Github 1 🐙
 date: 2022-02-20 18:00 +0800
 # last_modified_at: 2022-02-16 01:08:25 +0800
 tags: [git]
