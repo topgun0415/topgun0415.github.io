@@ -16,7 +16,7 @@ plugins:
   - jekyll-sitemap
 
 # Optimize Jekyll
-exclude:n  
+exclude:
   - .editorconfig
   - .git
   - .jekyll-cache
