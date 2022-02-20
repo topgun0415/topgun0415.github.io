@@ -16,7 +16,7 @@ plugins:
   - jekyll-sitemap
 
 # Optimize Jekyll
-exclude:
+exclude:n  
   - .editorconfig
   - .git
   - .jekyll-cache
@@ -57,7 +57,3 @@ author:
   name: Philip Lee
   url: https://topgun0415.github.io
   email: topgun920415@gmail.com
-
-url: "https://topgun0415.github.io" # the base hostname & protocol for your site
-plugins:
-  - jekyll-sitemap
