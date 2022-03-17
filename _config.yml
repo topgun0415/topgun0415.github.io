@@ -1,7 +1,7 @@
 # Setup
 title: Dev Blog
 description: 후쿠오카에서 살고 있는 프론트앤드 취준생입니당
-url: https://topgun0415.github.io
+url: "https://topgun0415.github.io"
 avatar: /profile.png
 paginate: 5
 permalink: pretty
