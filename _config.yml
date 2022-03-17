@@ -55,5 +55,5 @@ google_analytics: UA-000000-0
 # Specify the author for blog posts
 author:
   name: Philip Lee
-  url: https://topgun0415.github.io
+  url: "https://topgun0415.github.io"
   email: topgun920415@gmail.com
