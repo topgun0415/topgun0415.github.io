@@ -7,11 +7,11 @@ title:
 
 ## Hello World ! 😄👋
 
-### I'm a Junior FrontEnd Developer who live in Fukuoka 🇯🇵
+### I'm a System Engineer who work in Fukuoka 🇯🇵
 
-### I have learned English, Chinese, Japanese, French when I was a University student
+### I learned English, Chinese, Japanese, French when I was a University student
 
-### Now I'm focus on learning programming langauges
+### Now I'm focus on learning programming langauges 🧑🏻‍💻
 
 <br>
 
@@ -40,6 +40,8 @@ title:
 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+<img src="https://img.shields.io/badge/Scss-cc6699?style=for-the-badge&logo=Sass&logoColor=white"> 
+<img src="https://img.shields.io/badge/StyledComponents-DB7093?style=for-the-badge&logo=Styled-components&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 
@@ -48,6 +50,8 @@ title:
 ---
 
 ## Experience
+
+2022.06 ~ 2022.09 : メディアファイブ株式会社
 
 ---
 
